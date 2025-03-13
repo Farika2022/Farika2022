@@ -27,10 +27,10 @@ My name is Farika Magjabeen, and I'm a Computer Science (IT) Student interested 
 https://github.com/user-attachments/assets/0b1f953b-2691-4a6a-bc9a-286163d58737
 
 👩‍💻Booking website
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Farika2022/Farika2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://github.com/user-attachments/assets/45d5b832-464b-450b-b010-b78b30267ef0
+
+<!--
 Here are some ideas to get you started:
 
 
